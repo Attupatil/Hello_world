@@ -2,8 +2,5 @@
 #include <conio.h>
 void main()
 {
-char a;
-a="hello world";
-cout<<a;
-reutrn 0;
+cout<<"hello world";
 }
